@@ -31,5 +31,3 @@
    - Loop through all expenses.  
    - Convert amounts to float and sum them up.  
    - Display the total amount spent.  
-
-Let me know if you need more details! 🚀
